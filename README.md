@@ -2,4 +2,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+novice+developer+on+Rails)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,discord,docker,git,js,linux,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,git,discord,docker,js,linux,postgres)](https://skillicons.dev)
